@@ -1,0 +1,7 @@
+D:\progs\csharp\myioc\MyIoc\MyIoc\bin\Debug\MyIoc.exe.config
+D:\progs\csharp\myioc\MyIoc\MyIoc\obj\Debug\MyIoc.csprojResolveAssemblyReference.cache
+D:\progs\csharp\myioc\MyIoc\MyIoc\bin\Debug\MyIoc.exe
+D:\progs\csharp\myioc\MyIoc\MyIoc\bin\Debug\MyIoc.pdb
+D:\progs\csharp\myioc\MyIoc\MyIoc\bin\Debug\Container.NET.dll
+D:\progs\csharp\myioc\MyIoc\MyIoc\obj\Debug\MyIoc.exe
+D:\progs\csharp\myioc\MyIoc\MyIoc\obj\Debug\MyIoc.pdb

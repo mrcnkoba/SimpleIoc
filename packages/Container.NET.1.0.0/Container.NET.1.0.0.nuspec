@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Container.NET</id>
+    <version>1.0.0</version>
+    <title>Container.NET</title>
+    <authors>Mikolaj Olszewski</authors>
+    <owners>Mikolaj Olszewski</owners>
+    <licenseUrl>https://bitbucket.org/komponenty/concepts-container.net/src/master/license.txt</licenseUrl>
+    <projectUrl>https://bitbucket.org/komponenty/concepts-container.net</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>DI .NET containter specification</description>
+    <releaseNotes>Initial stuff.</releaseNotes>
+    <copyright>Copyright 2013</copyright>
+    <language />
+    <tags>Container</tags>
+  </metadata>
+</package>
